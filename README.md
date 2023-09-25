@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mprotas1
-- 🌱 I’m currently learning Java and Spring
+- :coffee: Junior Java Developer
 - 🏙 I'm living in Szczecin, Poland
 - 🏫 Currently studying at Maritime University in Szczecin
 
