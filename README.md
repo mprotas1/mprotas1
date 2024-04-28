@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mprotas1
-- :coffee: Junior Java Developer at Transition Technologies PSC Poland
+- :coffee: Junior Java Developer at Transition Technologies PSC Poland 🟪
 - 🏙 Living in Szczecin, Poland
 - 🏫 Currently studying at Maritime University in Szczecin (Masters' degree on IT field)
 
